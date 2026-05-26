@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:06b6d4&height=200&section=header&text=QuantumPulse%20AI&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI-Powered%20Financial%20Market%20Intelligence%20Platform&descAlignY=55&descSize=18" width="100%"/>
