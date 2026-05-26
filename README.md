@@ -138,28 +138,21 @@ QuantumPulse AI
 <div align="center">
 
 ### 🏠 Main Dashboard
-> *Screenshot placeholder — Add your dashboard screenshot here*
-```
-[Dashboard Screenshot]
-```
+><img width="1891" height="876" alt="Main Dashboard" src="https://github.com/user-attachments/assets/bcb45f8d-70bd-4317-94fb-3f43ff20108f" />
+
 
 ### 🤖 AI Sentiment Analysis
-> *Screenshot placeholder — Add your sentiment analyzer screenshot here*
-```
-[Sentiment Analyzer Screenshot]
-```
+> <img width="1888" height="872" alt="AI Sentiment Analysis" src="https://github.com/user-attachments/assets/0d8b82af-b6aa-4b57-90e7-be556c4867e0" />
+
 
 ### 📊 Market Intelligence
-> *Screenshot placeholder — Add your market dashboard screenshot here*
-```
-[Market Dashboard Screenshot]
-```
+> <img width="1882" height="861" alt="Market Intelligence" src="https://github.com/user-attachments/assets/8f7e3bfd-df50-483e-a003-a6a3390cc6f5" />
+
 
 ### ⚖️ Risk Calculator
-> *Screenshot placeholder — Add your risk calculator screenshot here*
-```
-[Risk Calculator Screenshot]
-```
+> <img width="351" height="598" alt="Risk Calculator" src="https://github.com/user-attachments/assets/f1b4bc46-ea26-47f3-bfb2-595e730a8f2d" />
+
+
 
 </div>
 
